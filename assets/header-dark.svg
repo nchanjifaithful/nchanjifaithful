@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<style>.s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}.blink{animation:blink 1.1s steps(1) infinite}@keyframes blink{50%{opacity:0}}</style>
+<defs><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#8A8A94" opacity=".22"/></pattern></defs>
+<rect width="1200" height="300" rx="20" fill="#0D0D10"/>
+<rect width="1200" height="300" rx="20" fill="url(#dots)"/>
+<rect x=".5" y=".5" width="1199" height="299" rx="20" fill="none" stroke="#2A2A32"/>
+<text x="80" y="92" class="m" font-size="13" letter-spacing="2.5" fill="#8A8A94">DESIGN ENGINEER  /  BAMENDA, CAMEROON</text>
+<text x="80" y="164" class="s" font-size="64" font-weight="600" fill="#F2F2EE">Nchanji Faithful</text>
+<text x="80" y="214" class="s" font-size="22" fill="#F2F2EE" opacity=".88">I design and build solutions to local problems.</text>
+<text x="80" y="254" class="m" font-size="16" fill="#8A8A94" textLength="336" lengthAdjust="spacing">systems thinking · obsessive detail</text>
+<rect x="422" y="240" width="9" height="18" fill="#22D3EE" class="blink"/>
+</svg>
