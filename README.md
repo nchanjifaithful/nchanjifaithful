@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Nchanji Faithful. Design engineer in Bamenda, Cameroon. I design and build solutions to local problems: systems thinking, obsessive detail." src="assets/header-light.svg" width="100%">
-</picture>
+<img alt="Nchanji Faithful. Design engineer in Bamenda, Cameroon. I design and build solutions to local problems: systems thinking, obsessive detail." src="assets/header-dark.svg" width="100%">
 
 <br>
 
